@@ -5,7 +5,7 @@ import 'package:location/location.dart';
 import 'constraints.dart';
 
 void main() {
-  GoogleMap.init('AIzaSyAzt5qjNiXVa7Ujv5yEkJ2x9iw-nZsxc');
+  GoogleMap.init('AIzaSyAzt5qjNiXVa7Ujv5yEkJ2x9iw-nZs');
   WidgetsFlutterBinding.ensureInitialized();
   runApp(MyApp());
 }

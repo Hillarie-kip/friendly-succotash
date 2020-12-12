@@ -10,7 +10,7 @@ import Flutter
     GeneratedPluginRegistrant.register(with: self)
     return super.application(application, didFinishLaunchingWithOptions: launchOptions)
   }
-   [GMSServices provideAPIKey:@"AIzaSyAzt5qjNiXVa7Ujv5yEkJ2x9iw-nZsxc"];
+   [GMSServices provideAPIKey:@"AIzaSyAzt5qjNiXVa7Ujv5yEkJ2x9iw-nZs"];
     [GeneratedPluginRegistrant registerWithRegistry:self];
     return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
